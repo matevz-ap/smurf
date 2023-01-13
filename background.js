@@ -9,7 +9,7 @@ chrome.runtime.onMessage.addListener(
 
 chrome.declarativeNetRequest.updateDynamicRules({
     addRules: [{
-        "id": 1,
+        "id": 13371337,
         "priority": 1,
         "action": {
             "type": "modifyHeaders",
